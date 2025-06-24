@@ -5,10 +5,22 @@
 <div id="header" align="left">
   <p>I'm a Junior QA engineer with high interest on keep practicing all the skills I learn on my completed bootcamp  of tecnology, skills like Web testing, web UI testing, movile testing, API testing and automated testing with the goal of became a profesional on the   field and be able to garantie the quality of the proyect, particularly interested in learn more about automated testing with Python and maybe learn new languages like Java or Typescript.</p>
 
-<div id="header" align="left">
-  
-<h2> Where to find me</h2>
-  :e-mail: jesus_jovan@hotmail.com
+---
+ <div id="header" align="left">
+
+### :man_technologist: About my :
+Apasionated of technology and enthusiastic to start my career as QA Engineer<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+* :seedling: Looking for practice more my skills with Selenium, I already work in projects using Python as language, using packages Pythest and Request, reporting and tracking all the incidents on Jira.
+
+* :detective: I love a good challenge that allow me to improve my skills on programing and help me to be a more complete profesional. 
+
+* :mailbox: contact methods!
+
+* :e-mail: jesus_jovan@hotmail.com
+
+---
+
 </div>
 
 <h2>:computer: Languages and tools I use</h2>
