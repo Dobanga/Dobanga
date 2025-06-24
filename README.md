@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Jovan, a pleasure to met you!</h1>
+<h1>Hello 👋 I'm Jovan, a pleasure to met you!</h1>
 <p>I'm a Junior QA engineer with high interest on keep practicing all the skills I learn on my completed bootcamp  of tecnology, skills like Web testing, web UI testing, movile testing, API testing and automated testing with the goal of became a profesional on the field and be able to garantie the quality of the proyect, particularly interested in learn more about automated testing with Python and maybe learn new languages like Java or Typescript.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
