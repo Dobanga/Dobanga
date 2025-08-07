@@ -3,12 +3,12 @@
 </div>
 
 <div id="header" align="left">
-  <p>I'm a Junior QA engineer with high interest on keep practicing all the skills I learn on my completed bootcamp  of tecnology, skills like Web testing, web UI testing, movile testing, API testing and automated testing with the goal of became a profesional on the   field and be able to garantie the quality of the proyect, particularly interested in learn more about automated testing with Python and maybe learn new languages like Java or Typescript.</p>
+  <p>I'm a QA engineer with high interest on keep practicing all the skills I learn on my completed bootcamp  of tecnology, skills like Web testing, web UI testing, movile testing, API testing and automated testing with the goal of became a profesional on the   field and be able to garantiee the quality of the proyect, particularly interested in learn more about automated testing with Python and maybe learn new languages like Java or Typescript.</p>
 
 ---
  <div id="header" align="left">
 
-### :man_technologist: About my :
+### :man_technologist: About me :
 Apasionated of technology and enthusiastic to start my career as QA Engineer<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * :seedling: Looking for practice more my skills with Selenium, I already work in projects using Python as language, using packages Pythest and Request, reporting and tracking all the incidents on Jira.
